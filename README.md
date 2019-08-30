@@ -15,7 +15,7 @@ https://izzyharvin.github.io/CrystalCollector/
 # How to play
 
 1. First Step you go to link and it will bring you to this page.
-![home page](/pictures/crystal_homepage.png)
+![home page](/pictures/crystal_page.png)
 
 2. Second step you keep click each crystal until you reach the number.
 ![click crystal](/pictures/crystal_click.png)
